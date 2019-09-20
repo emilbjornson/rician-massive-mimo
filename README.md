@@ -3,7 +3,7 @@ Massive MIMO with Spatially Correlated Rician Fading Channels
 
 This is a code package is related to the follow scientific article:
 
-Özgecan Özdogan, Emil Björnson, Erik G. Larsson, “[Massive MIMO with Spatially Correlated Rician Fading Channels](https://arxiv.org/abs/1805.07972),” IEEE Transactions on Communications, To appear.
+Özgecan Özdogan, Emil Björnson, Erik G. Larsson, “[Massive MIMO with Spatially Correlated Rician Fading Channels](https://arxiv.org/abs/1805.07972),” IEEE Transactions on Communications, vol. 67, no. 5, pp. 3234-3250, May 2019.
 
 The package contains a simulation environment, based on Matlab, that reproduces some of the numerical results and figures in the article. *We encourage you to also perform reproducible research!*
 
